@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "600316065859",
+    "project_id": "iots-69dd8",
+    "storage_bucket": "iots-69dd8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:600316065859:android:f7b6910ff28a3f18d0fcf6",
+        "android_client_info": {
+          "package_name": "com.sp.iots"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "600316065859-jh7m33b2odd9klms17an2g8vvpdhomn5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sp.iots",
+            "certificate_hash": "691a60a47a77c6271b78f5075777a5a9de87757e"
+          }
+        },
+        {
+          "client_id": "600316065859-arhba3hvun37nac3ae45ol53c2ljsjko.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCfQfPb84I-CBl4SobF5iF-WAxdHYGj7YA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "600316065859-arhba3hvun37nac3ae45ol53c2ljsjko.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
